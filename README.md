@@ -4,7 +4,7 @@
 
 ## Overview
 
-**WSHorizontalListView**, UITableViewCell中添加横向滚动视图，用于展示不同图片。利用UICollectionView的优点，从而性能上有很大优化。。
+**WSHorizontalListView**, UITableViewCell中添加横向滚动视图，用于展示不同图片。利用UICollectionView的优点，从而性能上有很大优化。
 
 #### 截图概述
 
